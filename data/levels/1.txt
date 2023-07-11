@@ -1,0 +1,15 @@
+# Level 1
+
+player 28 75  12
+
+house 145 472  96 80 1.5
+house 381 484  128 120 2
+house 646 464  96 80 1.5
+house 218 248  64 60
+house 387 192  64 60
+house 580 144  64 60
+
+guard Steve 295 373  470 370  462 558  292 557  -1
+guard Bob    36 311  750 325
+guard Joe   502  88  501 561
+dog   Rover 269 264

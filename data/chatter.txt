@@ -1,0 +1,128 @@
+#
+# Guard
+#
+
+[guard_saw_player]
+What, ho!
+Oi!  Stop right there!
+Oi!  Who are you?
+Criminal spotted!
+You're in for it now!
+Come here, you!
+Interloper!
+Fie on you, villain!
+Accursed larcenist!
+
+[guard_hit_player]
+Have at ye!
+Take that!
+You're nicked!
+For great justice!
+<kapow>
+<bam>
+<biff>
+<thonk>
+<whack>
+
+[guard_hit]
+Yow!  That hurt!
+Oi - stop that now!
+What do you think you're doing with that thing?
+Hey - those things are dangerous!
+Careful now...
+Youch!
+<squeals>
+It's only a flesh wound!
+
+[guard_death]
+<gurgle>
+Aaaaaaaaahhhhh...
+Noooooooooooo...
+Aaaaargh!
+Medic!
+
+#
+# Guard dog
+#
+
+[dog_saw_player]
+Arf! Arf! Arf!
+WOOF!  WOOF!
+Woof woof woof!
+Arrrrrrr!
+
+[dog_hit_player]
+Aroof!
+Roof!
+Arf!
+<snap>
+<bite>
+
+[dog_hit]
+<yelp>
+Yip!
+<whimper>
+
+[dog_death]
+Aroooooooooo...
+<yelp>...
+Roof...
+
+#
+# Player
+#
+
+[player_spotted]
+Uh-oh...
+Zoinks!
+Time to go for a jog...
+<sigh>
+Whoops...
+
+[player_death]
+<gurgle>
+I'll be back! <urgh>
+Not again!
+Ouch!
+This didn't quite work out like I'd planned.
+Now I will become more powerful than you could ever imagine!
+
+[looted_chest]
+More coins for the pile!
+I love the taste of avarice in the evening.
+Yummy money.
+They won't be needing that any more.
+Sleight makes right!
+I wonder what I can buy with that.
+Steal from the rich, give to... me!
+I'll have that.
+Yoink!
+Please, sir... I want more!
+Money money money... it's so lovely.
+
+[pickpocketed_guard]
+Change?  Anyone need some change?
+Here's a bit of pocket money.
+What's that in here?  Ewww...
+He won't miss that.
+Now there's a load off his pocket.
+
+[won_level]
+Eeeeeexcellent.
+Now, where to put all this money?
+It's a rich man's world.
+Right - I'm outta here!
+There is nothing quite as wonderful as money.
+All your loot are belong to me.
+
+[threw_dagger]
+# sound only
+
+#
+# Dagger
+#
+
+[dagger_hit_house]
+<thunk>
+<ping>
+<clatter>

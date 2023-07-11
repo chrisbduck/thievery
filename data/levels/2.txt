@@ -1,0 +1,19 @@
+# Level 2
+
+player 24 74  10
+
+house  82 498   64  60
+house 196 503   64  60
+house 308 502   64  60
+
+house 151 285   96  85 1.4
+house 328 284   96  80 1.5
+house 685 242   96  90 1.7
+
+house 673 503  128 150 2.5
+
+guard Eric   32 557  368 555
+guard Jeff  415 561  421  72
+guard Dave  747 133  504 124  498 558
+guard Barry 768 382  767 573  577 574  579 387  766 382
+dog   Spot  619 271  dir -1 0

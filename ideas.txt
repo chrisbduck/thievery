@@ -1,0 +1,31 @@
+Ideas for thievery game
+-----------------------
+
+- 2D top-down game; single screen to start with
+- Player controls a thief, out to wander around the screen and steal stuff from houses
+- Guards wandering around the place will watch out for the player and chase them
+- Can have a bit of text chatter from the guards
+- Guards' visibility and hearing ranges and directions are the key
+- Can have guard dogs as well - can smell the player from close range
+
+
+Technical issues:
+- Need to check reliably whether there's something between a guard and the player
+
+Things the player can do:
+- Walk around
+- Throw daggers
+- Close-range attack
+- Steal something:
+	- Rob a building
+	- Pickpocket a guard
+- Set a building on fire
+- Set off a bomb
+
+Stats:
+	- Loot
+	- Thefts, assaults, murders, etc
+
+To do:
+	- Hearing noises?
+	- Suspicion?

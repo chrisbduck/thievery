@@ -1,0 +1,8 @@
+*~
+dist
+placeholders
+*.log
+*.tgz
+*.zip
+*.pyc
+*.spec
